@@ -1,0 +1,15 @@
+# 01. Начало работы
+
+## Что такое RISEx?
+- Полностью on-chain perpetuals с orderbook
+- Исполнение < 3 мс
+- Zero gas (через RISE Wallet)
+- Portfolio Margin + AutoYield
+
+## Основные термины
+- **Perpetual** — бессрочный фьючерс
+- **Long / Short**
+- **Leverage** — плечо (до 50x+)
+- **Funding Rate**
+
+(Далее пиши подробнее...)
